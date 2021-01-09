@@ -50,7 +50,12 @@ color:string;
 
 }
 
-let obj:carconfig={color:"BLACK",makeYear:2008};///interface way of defining
+let obj:carconfig={color:"BLACK",makeYear:2008};
+///interface way of defining
+
+//i want to track
+
+
 
 //let c=new Car({color:"RED",makeYear:2008}); //object way of declaration
 
